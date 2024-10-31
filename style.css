@@ -1,0 +1,21 @@
+header
+{
+    background-color: firebrick;
+    font-size: 200%;
+    text-align: center;
+}
+
+
+main
+{
+    background-color: antiquewhite;
+    font-size: 150%;
+    text-align: center;
+}
+
+footer
+{
+    background-color: aquamarine;
+    font-size: 150;
+    text-align: center;
+}
